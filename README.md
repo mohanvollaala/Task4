@@ -32,4 +32,4 @@ The objective is to perform **data exploration, trend analysis, and performance 
 ##  Technologies Used
 - **SQL** (MySQL)
 - **Kaggle Dataset**
--
+
